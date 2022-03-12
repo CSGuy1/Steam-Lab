@@ -10,6 +10,7 @@ import { ProjectsPageLayoutComponent } from './Layouts/projects-page/projects-pa
 import { SchedulePageLayoutComponent } from './Layouts/schedule-page/schedule-page-layout.component';
 import { UpcomingEventsPageLayoutComponent } from './Layouts/upcoming-events-page/upcoming-events-page-layout.component';
 import { VideosPageLayoutComponent } from './Layouts/videos-page/videos-page-layout.component';
+import { FooterComponent } from './Universal components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { VideosPageLayoutComponent } from './Layouts/videos-page/videos-page-lay
     UpcomingEventsPageLayoutComponent,
     VideosPageLayoutComponent,
     CarouselComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
