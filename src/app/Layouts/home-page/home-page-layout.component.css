@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+blockquote{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 100;
+}
+
+a.citation{
+    text-decoration: none;
+    color: black;
+}
+
+a.citation:hover{
+    text-decoration: none;
+    color: blue;
+}
