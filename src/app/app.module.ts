@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './header/header.component';
+import { HeaderComponent } from './Universal components/header/header.component';
 import { CarouselComponent } from './Layouts/home-page/Carousel/carousel.component';
 import { HomePageLayoutComponent } from './Layouts/home-page/home-page-layout.component';
 import { ProjectsPageLayoutComponent } from './Layouts/projects-page/projects-page-layout.component';
